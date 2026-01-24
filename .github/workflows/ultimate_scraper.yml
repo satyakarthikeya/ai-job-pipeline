@@ -1,0 +1,91 @@
+name: AI Job Pipeline
+
+on:
+  # Run once daily at 4 PM UTC (9:30 PM IST)
+  schedule:
+    - cron: '0 16 * * *'  # 4:00 PM UTC = 9:30 PM IST
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  # Stage 1: Scrape jobs from multiple sources in parallel
+  scrape-multi-source:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # Focused on Indian job boards for AI/ML internships
+        source: ['linkedin', 'indian-boards', 'google-jobs']
+      fail-fast: false  # Continue even if one source fails
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run scraper for ${{ matrix.source }}
+        run: |
+          python ultimate_scraper.py --source ${{ matrix.source }}
+        continue-on-error: true  # Don't fail workflow if scraper fails
+      
+      - name: Upload job data as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: jobs-${{ matrix.source }}
+          path: jobs_*.json
+          retention-days: 1
+  
+  # Stage 2: Merge, filter, and alert
+  merge-and-alert:
+    needs: scrape-multi-source
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Download all job artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+      
+      - name: Move artifacts to root
+        run: |
+          find artifacts/ -name "*.json" -exec cp {} . \;
+          ls -la *.json || echo "No JSON files found"
+      
+      - name: Run merge and alert
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          python merge_jobs.py
+      
+      - name: Commit updated cache
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add jobs_cache.json
+          git diff --staged --quiet || git commit -m "Update job cache [skip ci]"
+          git push
+        continue-on-error: true

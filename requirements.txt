@@ -1,0 +1,22 @@
+# Core scraping and web requests
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Multi-platform job scraping
+python-jobspy==1.1.45
+
+# Reddit API wrapper
+praw==7.7.1
+
+# Data processing
+pandas==2.2.0
+
+# Date handling
+python-dateutil==2.8.2
+
+# Discord webhooks
+discord-webhook==1.3.0
+
+# Environment variables
+python-dotenv==1.0.0
