@@ -1,10 +1,11 @@
 # Environment variables (contains secrets)
 .env
 
-# Ignore generated job files
+# Ignore generated job files (but keep jobs_cache.json for deduplication)
 jobs_*.json
 jobs_merged.json
 jobs_filtered.json
+!jobs_cache.json
 
 # Python cache
 __pycache__/
