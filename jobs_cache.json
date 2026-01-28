@@ -18,7 +18,7 @@
     },
     "https://www.linkedin.com/jobs/view/4362503078": {
       "first_seen": "2026-01-24",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Lorven Technologies Inc.",
@@ -26,7 +26,7 @@
     },
     "https://www.linkedin.com/jobs/view/4365685012": {
       "first_seen": "2026-01-24",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Cisco",
@@ -42,7 +42,7 @@
     },
     "https://www.linkedin.com/jobs/view/4362564707": {
       "first_seen": "2026-01-24",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "techolution",
@@ -66,7 +66,7 @@
     },
     "https://www.linkedin.com/jobs/view/4365499799": {
       "first_seen": "2026-01-24",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "CapeStart",
@@ -98,7 +98,7 @@
     },
     "https://www.linkedin.com/jobs/view/4362184916": {
       "first_seen": "2026-01-24",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Morgan Stanley",
@@ -106,7 +106,7 @@
     },
     "https://www.linkedin.com/jobs/view/4354270426": {
       "first_seen": "2026-01-24",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Deloitte",
@@ -258,7 +258,7 @@
     },
     "https://www.linkedin.com/jobs/view/4360955711": {
       "first_seen": "2026-01-27",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "NikahForever",
@@ -282,7 +282,7 @@
     },
     "https://www.linkedin.com/jobs/view/4291069034": {
       "first_seen": "2026-01-27",
-      "last_seen": "2026-01-27",
+      "last_seen": "2026-01-28",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PwC India",
@@ -383,16 +383,144 @@
       "source": "linkedin",
       "company": "WebBoost Solutions by UM",
       "title": "Machine Learning Intern"
+    },
+    "https://unstop.cominternships/management-trainee-internship-varthana-finance-pvt-ltd-1631533": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Varthana Finance Pvt. Ltd.",
+      "title": "Management Trainee Internship"
+    },
+    "https://www.linkedin.com/jobs/view/4366476031": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "techolution",
+      "title": "Artificial Intelligence Intern / AI Python Intern"
+    },
+    "https://unstop.cominternships/sustainability-and-climate-tech-internship-fusionpact-technologies-inc-1624579": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Fusionpact Technologies Inc",
+      "title": "Sustainability and Climate Tech Internship"
+    },
+    "https://unstop.cominternships/email-marketing-internship-sownmark-1631413": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Sownmark",
+      "title": "Email Marketing Internship"
+    },
+    "https://www.linkedin.com/jobs/view/4366495131": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Apple",
+      "title": "Software Engineering Intern, Apple Ads (Machine Learning)"
+    },
+    "https://www.linkedin.com/jobs/view/4366429744": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Endee",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4358386656": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Microsoft",
+      "title": "Data Science INTERN"
+    },
+    "https://www.linkedin.com/jobs/view/4366466818": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Om Ak Solutions",
+      "title": "AI Intern (Artificial Intelligence"
+    },
+    "https://www.linkedin.com/jobs/view/4151673062": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Gallagher",
+      "title": "Trainee RWD Software Engineer"
+    },
+    "https://www.linkedin.com/jobs/view/4366418574": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4366679615": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SkillFied Mentor",
+      "title": "DevOps Engineer Intern (Linux Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4366703414": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Infrabyte Consulting",
+      "title": "Artificial Intelligence & Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4356274107": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Proddy AI",
+      "title": "Sales And Marketing Intern (Unpaid)"
+    },
+    "https://www.linkedin.com/jobs/view/4366770658": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Webs IT Solution",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4366447646": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "CraticAI",
+      "title": "FullStack Gen AI Developer Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4366420820": {
+      "first_seen": "2026-01-28",
+      "last_seen": "2026-01-28",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "PriyaQubit Private.Limited",
+      "title": "Devops Intern"
     }
   },
   "stats": {
-    "total_jobs_tracked": 48,
+    "total_jobs_tracked": 64,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-01-27T16:19:28.035533",
+    "last_cleanup": "2026-01-28T16:24:39.779831",
     "sources_breakdown": {
-      "unstop": 5,
-      "linkedin": 42,
+      "unstop": 8,
+      "linkedin": 55,
       "internshala": 1
     }
   }
