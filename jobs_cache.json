@@ -282,7 +282,7 @@
     },
     "https://www.linkedin.com/jobs/view/4291069034": {
       "first_seen": "2026-01-27",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PwC India",
@@ -426,7 +426,7 @@
     },
     "https://www.linkedin.com/jobs/view/4366429744": {
       "first_seen": "2026-01-28",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Endee",
@@ -434,7 +434,7 @@
     },
     "https://www.linkedin.com/jobs/view/4358386656": {
       "first_seen": "2026-01-28",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Microsoft",
@@ -442,7 +442,7 @@
     },
     "https://www.linkedin.com/jobs/view/4366466818": {
       "first_seen": "2026-01-28",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Om Ak Solutions",
@@ -450,7 +450,7 @@
     },
     "https://www.linkedin.com/jobs/view/4151673062": {
       "first_seen": "2026-01-28",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Gallagher",
@@ -546,7 +546,7 @@
     },
     "https://www.linkedin.com/jobs/view/4366982782": {
       "first_seen": "2026-01-29",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Nlink Tech Pvt Ltd",
@@ -586,7 +586,7 @@
     },
     "https://www.linkedin.com/jobs/view/4330713319": {
       "first_seen": "2026-01-29",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Medpace",
@@ -610,7 +610,7 @@
     },
     "https://www.linkedin.com/jobs/view/4366587545": {
       "first_seen": "2026-01-29",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Inficore Soft",
@@ -618,7 +618,7 @@
     },
     "https://www.linkedin.com/jobs/view/4356456060": {
       "first_seen": "2026-01-29",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "armor",
@@ -690,7 +690,7 @@
     },
     "https://www.linkedin.com/jobs/view/4367400563": {
       "first_seen": "2026-01-30",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Rusk Media",
@@ -698,7 +698,7 @@
     },
     "https://www.linkedin.com/jobs/view/4356515350": {
       "first_seen": "2026-01-30",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "HyphenBrands",
@@ -706,7 +706,7 @@
     },
     "https://internshala.com/internship/detail/it-sales-intern--cloud-sales--internship-in-bangalore-at-cloudzenia1769768707": {
       "first_seen": "2026-01-30",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "internshala",
       "company": "CloudZenia",
@@ -714,7 +714,7 @@
     },
     "https://www.linkedin.com/jobs/view/4344657249": {
       "first_seen": "2026-01-30",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "United Airlines",
@@ -730,7 +730,7 @@
     },
     "https://www.linkedin.com/jobs/view/4366727506": {
       "first_seen": "2026-01-30",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -738,7 +738,7 @@
     },
     "https://www.linkedin.com/jobs/view/4367075731": {
       "first_seen": "2026-01-30",
-      "last_seen": "2026-01-30",
+      "last_seen": "2026-01-31",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Zeno Talent",
@@ -751,16 +751,88 @@
       "source": "linkedin",
       "company": "Zetheta Algorithms Private Limited",
       "title": "Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4367659520": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Gateway Software SolutionS",
+      "title": "Artificial Intelligence (AI) Internship in Kanchipuram, Salem, Viluppuram, Tirunelveli, Pollachi, Namakkal, Theni, Chengalpattu, Erode, Madurai, Sivagangai, Rasipuram, Chennai, Coimbatore"
+    },
+    "https://unstop.cominternships/machine-learning-engineer-internship-skill-vedanth-1633121": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Skill Vedanth",
+      "title": "Machine Learning Engineer Internship"
+    },
+    "https://unstop.cominternships/artificial-intelligence-voice-agent-developer-internship-arbro-pharmaceuticals-1632988": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Arbro Pharmaceuticals",
+      "title": "Artificial Intelligence Voice Agent Developer Internship"
+    },
+    "https://www.linkedin.com/jobs/view/4356780426": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Times Internet",
+      "title": "Digital Marketing Intern - Paid Media"
+    },
+    "https://www.linkedin.com/jobs/view/3923124641": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "EVOASTRA VENTURES PVT LTD",
+      "title": "Artificial Intelligence / Machine Learning Intern (Remote)"
+    },
+    "https://www.linkedin.com/jobs/view/4291264742": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Astellas Pharma",
+      "title": "Data and Analytics Developer, Junior BI Devleoper"
+    },
+    "https://www.linkedin.com/jobs/view/4367234317": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "TechBridge Consultancy Services",
+      "title": "Junior DevOps Engineer"
+    },
+    "https://www.linkedin.com/jobs/view/4367935186": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Webs IT Solution",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4367576136": {
+      "first_seen": "2026-01-31",
+      "last_seen": "2026-01-31",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Dexter's Tech",
+      "title": "Data Science Intern"
     }
   },
   "stats": {
-    "total_jobs_tracked": 94,
+    "total_jobs_tracked": 103,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-01-30T16:27:05.974619",
+    "last_cleanup": "2026-01-31T16:16:16.952981",
     "sources_breakdown": {
-      "unstop": 13,
-      "linkedin": 79,
+      "unstop": 15,
+      "linkedin": 86,
       "internshala": 2
     }
   }
