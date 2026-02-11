@@ -1,45 +1,5 @@
 {
   "seen_jobs": {
-    "https://www.linkedin.com/jobs/view/4358386656": {
-      "first_seen": "2026-01-28",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Microsoft",
-      "title": "Data Science INTERN"
-    },
-    "https://www.linkedin.com/jobs/view/4366466818": {
-      "first_seen": "2026-01-28",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Om Ak Solutions",
-      "title": "AI Intern (Artificial Intelligence"
-    },
-    "https://www.linkedin.com/jobs/view/4351649818": {
-      "first_seen": "2026-01-29",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Milliman",
-      "title": "Trainee Software Engineer - MedInsight (Dev)"
-    },
-    "https://www.linkedin.com/jobs/view/4330713319": {
-      "first_seen": "2026-01-29",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Medpace",
-      "title": "Junior Data Engineer"
-    },
-    "https://www.linkedin.com/jobs/view/4356456060": {
-      "first_seen": "2026-01-29",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "armor",
-      "title": "AI Intern"
-    },
     "https://www.linkedin.com/jobs/view/4367215936": {
       "first_seen": "2026-01-30",
       "last_seen": "2026-02-04",
@@ -80,14 +40,6 @@
       "company": "Gateway Software SolutionS",
       "title": "Artificial Intelligence (AI) Internship in Kanchipuram, Salem, Viluppuram, Tirunelveli, Pollachi, Namakkal, Theni, Chengalpattu, Erode, Madurai, Sivagangai, Rasipuram, Chennai, Coimbatore"
     },
-    "https://www.linkedin.com/jobs/view/4352160691": {
-      "first_seen": "2026-02-01",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Milliman",
-      "title": "Trainee Software Engineer (Frontend) - MedInsight (Dev)"
-    },
     "https://www.linkedin.com/jobs/view/4367883495": {
       "first_seen": "2026-02-02",
       "last_seen": "2026-02-08",
@@ -119,22 +71,6 @@
       "source": "linkedin",
       "company": "Gateway Software SolutionS",
       "title": "Artificial Intelligence (AI) Internship in Kanchipuram, Salem, Viluppuram, Theni, Chengalpattu, Rasipuram, Coimbatore, Erode, Madurai, Tirunelveli, Pollachi, Chennai, Namakkal, Sivagangai"
-    },
-    "https://unstop.cominternships/ai-video-generation-internship-unstop-tech-fair-2025-peblo-eleven-group-initiative-1628403": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Peblo (Eleven Group Initiative)",
-      "title": "AI Video Generation Internship"
-    },
-    "https://unstop.cominternships/data-science-internship-microsoft-1633591": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Microsoft",
-      "title": "Data Science Internship"
     },
     "https://www.linkedin.com/jobs/view/4368421574": {
       "first_seen": "2026-02-03",
@@ -168,54 +104,6 @@
       "company": "BRT Multi Software LLP",
       "title": "DevOps Intern"
     },
-    "https://www.linkedin.com/jobs/view/4368240030": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
-    },
-    "https://www.linkedin.com/jobs/view/4357407312": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Wake Up Whistle",
-      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
-    },
-    "https://www.linkedin.com/jobs/view/4368492435": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SkillFied Mentor",
-      "title": "DevOps Engineer Intern (Linux Docker, Kubernetes)"
-    },
-    "https://internshala.com/internship/detail/software-trainee-internship-in-bangalore-at-cloudcache-consulting-private-ltd1767956743": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "internshala",
-      "company": "CloudCache Consulting Private Ltd",
-      "title": "Software Trainee"
-    },
-    "https://www.linkedin.com/jobs/view/4368462241": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Zetheta Algorithms Private Limited",
-      "title": "Artificial Intelligence Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4357489076": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Skillzenloop",
-      "title": "Machine Learning Intern"
-    },
     "https://www.linkedin.com/jobs/view/4368204412": {
       "first_seen": "2026-02-03",
       "last_seen": "2026-02-04",
@@ -223,22 +111,6 @@
       "source": "linkedin",
       "company": "Inficore Soft",
       "title": "Machine Learning Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4368659425": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Webs IT Solution",
-      "title": "Machine Learning Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4368238189": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-03",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "Data Science Intern (Python, SQL, Pandas)"
     },
     "https://www.linkedin.com/jobs/view/4358852735": {
       "first_seen": "2026-02-04",
@@ -362,7 +234,7 @@
     },
     "https://www.linkedin.com/jobs/view/4361010405": {
       "first_seen": "2026-02-05",
-      "last_seen": "2026-02-07",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PayTabs Global",
@@ -474,7 +346,7 @@
     },
     "https://www.linkedin.com/jobs/view/4369379219": {
       "first_seen": "2026-02-06",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Healync Technologies Private Limited",
@@ -514,7 +386,7 @@
     },
     "https://www.linkedin.com/jobs/view/4369696396": {
       "first_seen": "2026-02-06",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "BRT Multi Software LLP",
@@ -546,7 +418,7 @@
     },
     "https://www.linkedin.com/jobs/view/4369154670": {
       "first_seen": "2026-02-06",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Apple",
@@ -642,7 +514,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370001974": {
       "first_seen": "2026-02-07",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "The Vertical AI",
@@ -682,7 +554,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370135221": {
       "first_seen": "2026-02-07",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -946,7 +818,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370236990": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "QHT Clinic",
@@ -962,7 +834,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370099974": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "techolution",
@@ -970,7 +842,7 @@
     },
     "https://www.linkedin.com/jobs/view/4361878299": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "IBM",
@@ -994,7 +866,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370599850": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "FoodMe Global / Dine Palace",
@@ -1010,7 +882,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370083943": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Quantum IT Innovation",
@@ -1034,7 +906,7 @@
     },
     "https://www.linkedin.com/jobs/view/4361758030": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "RM Technology",
@@ -1074,7 +946,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370951759": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Miratech",
@@ -1082,7 +954,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370886646": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Deutsche Bank",
@@ -1098,7 +970,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370428201": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Wake Up Whistle",
@@ -1114,7 +986,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370676674": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-11",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Wake Up Whistle",
@@ -1143,16 +1015,120 @@
       "source": "linkedin",
       "company": "Skillzenloop",
       "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4370761154": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Thundertribes",
+      "title": "AI/ML Research Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4329553974": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "DocIndia.org",
+      "title": "Hiring for Software Developer Intern(.NET)(unpaid internship)"
+    },
+    "https://unstop.cominternships/aiml-internship-kisan-udyog-1639738": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Kisan Udyog",
+      "title": "AI/ML Internship"
+    },
+    "https://www.linkedin.com/jobs/view/4371133861": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Peakflo (YC W22)",
+      "title": "Machine Learning (ML) Engineer Intern - (Paid - India/Remote)"
+    },
+    "https://www.linkedin.com/jobs/view/4370772690": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Zorvyn",
+      "title": "Cloud [Azure/AWS] Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371151800": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "ArGo Intern",
+      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4371441595": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4371446290": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371116864": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "NEO SKILLZ",
+      "title": "AI Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4363193265": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371152632": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "ArGo Intern",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://www.linkedin.com/jobs/view/4371151746": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Dexter's Tech",
+      "title": "Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371453034": {
+      "first_seen": "2026-02-11",
+      "last_seen": "2026-02-11",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern"
     }
   },
   "stats": {
-    "total_jobs_tracked": 143,
+    "total_jobs_tracked": 140,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-02-10T16:53:54.989261",
+    "last_cleanup": "2026-02-11T16:54:03.732262",
     "sources_breakdown": {
-      "unstop": 39,
-      "linkedin": 214,
+      "unstop": 40,
+      "linkedin": 226,
       "internshala": 4
     }
   }
