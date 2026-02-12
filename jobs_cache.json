@@ -1,13 +1,5 @@
 {
   "seen_jobs": {
-    "https://www.linkedin.com/jobs/view/4367215936": {
-      "first_seen": "2026-01-30",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "OptiSol Business Solutions",
-      "title": "AI Intern"
-    },
     "https://www.linkedin.com/jobs/view/4367400563": {
       "first_seen": "2026-02-06",
       "last_seen": "2026-02-07",
@@ -15,30 +7,6 @@
       "source": "linkedin",
       "company": "Rusk Media",
       "title": "AI Product Management Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4356515350": {
-      "first_seen": "2026-01-30",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "HyphenBrands",
-      "title": "Artificial Intelligence Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4344657249": {
-      "first_seen": "2026-01-30",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "United Airlines",
-      "title": "Associate Engineer - DevOps"
-    },
-    "https://www.linkedin.com/jobs/view/4367659520": {
-      "first_seen": "2026-01-31",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Gateway Software SolutionS",
-      "title": "Artificial Intelligence (AI) Internship in Kanchipuram, Salem, Viluppuram, Tirunelveli, Pollachi, Namakkal, Theni, Chengalpattu, Erode, Madurai, Sivagangai, Rasipuram, Chennai, Coimbatore"
     },
     "https://www.linkedin.com/jobs/view/4367883495": {
       "first_seen": "2026-02-02",
@@ -104,30 +72,6 @@
       "company": "BRT Multi Software LLP",
       "title": "DevOps Intern"
     },
-    "https://www.linkedin.com/jobs/view/4368204412": {
-      "first_seen": "2026-02-03",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Inficore Soft",
-      "title": "Machine Learning Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4358852735": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ChargePoint",
-      "title": "Software Intern - ML"
-    },
-    "https://www.linkedin.com/jobs/view/4368598905": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
-    },
     "https://www.linkedin.com/jobs/view/4368286800": {
       "first_seen": "2026-02-04",
       "last_seen": "2026-02-08",
@@ -160,14 +104,6 @@
       "company": "Wake Up Whistle",
       "title": "Data Science Intern (Python, SQL, Pandas)"
     },
-    "https://www.linkedin.com/jobs/view/4368700106": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "Data Science Intern (Python, SQL, Pandas)"
-    },
     "https://www.linkedin.com/jobs/view/4369011652": {
       "first_seen": "2026-02-04",
       "last_seen": "2026-02-10",
@@ -175,38 +111,6 @@
       "source": "linkedin",
       "company": "SkillFied Mentor",
       "title": "Data Science Intern (Python, SQL, Pandas)"
-    },
-    "https://www.linkedin.com/jobs/view/4359506465": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Dexter's Tech",
-      "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4368576461": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Devot AI",
-      "title": "Data Science Intern (Full-Time, 6 Months)"
-    },
-    "https://www.linkedin.com/jobs/view/4369219262": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Webs IT Solution",
-      "title": "Machine Learning Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4358888286": {
-      "first_seen": "2026-02-04",
-      "last_seen": "2026-02-04",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Skillzenloop",
-      "title": "Machine Learning Intern"
     },
     "https://www.linkedin.com/jobs/view/4369404089": {
       "first_seen": "2026-02-05",
@@ -346,7 +250,7 @@
     },
     "https://www.linkedin.com/jobs/view/4369379219": {
       "first_seen": "2026-02-06",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Healync Technologies Private Limited",
@@ -386,7 +290,7 @@
     },
     "https://www.linkedin.com/jobs/view/4369696396": {
       "first_seen": "2026-02-06",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "BRT Multi Software LLP",
@@ -418,7 +322,7 @@
     },
     "https://www.linkedin.com/jobs/view/4369154670": {
       "first_seen": "2026-02-06",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Apple",
@@ -514,7 +418,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370001974": {
       "first_seen": "2026-02-07",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "The Vertical AI",
@@ -842,7 +746,7 @@
     },
     "https://www.linkedin.com/jobs/view/4361878299": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "IBM",
@@ -866,7 +770,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370599850": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "FoodMe Global / Dine Palace",
@@ -898,7 +802,7 @@
     },
     "https://internshala.com/internship/detail/ai-data-science-intern-voice-ai-core-models-internship-in-chennai-at-the-vertical-ai1770716171": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "internshala",
       "company": "The Vertical AI",
@@ -906,7 +810,7 @@
     },
     "https://www.linkedin.com/jobs/view/4361758030": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "RM Technology",
@@ -914,7 +818,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370440353": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-10",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "The Ridge Environment Consultants",
@@ -946,7 +850,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370951759": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Miratech",
@@ -970,7 +874,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370428201": {
       "first_seen": "2026-02-10",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Wake Up Whistle",
@@ -1042,7 +946,7 @@
     },
     "https://www.linkedin.com/jobs/view/4371133861": {
       "first_seen": "2026-02-11",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Peakflo (YC W22)",
@@ -1050,7 +954,7 @@
     },
     "https://www.linkedin.com/jobs/view/4370772690": {
       "first_seen": "2026-02-11",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Zorvyn",
@@ -1090,7 +994,7 @@
     },
     "https://www.linkedin.com/jobs/view/4363193265": {
       "first_seen": "2026-02-11",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
@@ -1098,7 +1002,7 @@
     },
     "https://www.linkedin.com/jobs/view/4371152632": {
       "first_seen": "2026-02-11",
-      "last_seen": "2026-02-11",
+      "last_seen": "2026-02-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "ArGo Intern",
@@ -1119,17 +1023,113 @@
       "source": "linkedin",
       "company": "SportsBUZZ",
       "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4370642121": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "PCL",
+      "title": "Marketing Intern (Paid Internship)"
+    },
+    "https://www.linkedin.com/jobs/view/4370637794": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Pandita AI Inc",
+      "title": "AI Applied Research Intern - MS/MTech/PhD"
+    },
+    "https://www.linkedin.com/jobs/view/4371646253": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "OneRoof Technologies",
+      "title": "Artificial Intelligence (AI) Internship in Thane, Mumbai"
+    },
+    "https://internshala.com/internship/detail/documentation-office-executive-trainee-internship-in-delhi-at-bla-etech-widest-range-of-emi-emc-filters-transformers-chokes1769765477": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "internshala",
+      "company": "BLA Etech - Widest Range Of EMI EMC FILTERS, Transformers, Chokes",
+      "title": "Documentation & Office Executive Trainee"
+    },
+    "https://www.linkedin.com/jobs/view/4371888921": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4364120943": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4372105069": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Webs IT Solution",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371822045": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://www.linkedin.com/jobs/view/4371847778": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Ecolab",
+      "title": "Data Science - Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371525584": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Dexter's Tech",
+      "title": "Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4371522538": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Dexter's Tech",
+      "title": "Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4372102119": {
+      "first_seen": "2026-02-12",
+      "last_seen": "2026-02-12",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern"
     }
   },
   "stats": {
     "total_jobs_tracked": 140,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-02-11T16:54:03.732262",
+    "last_cleanup": "2026-02-12T16:46:14.426476",
     "sources_breakdown": {
       "unstop": 40,
-      "linkedin": 226,
-      "internshala": 4
+      "linkedin": 237,
+      "internshala": 5
     }
   }
 }
