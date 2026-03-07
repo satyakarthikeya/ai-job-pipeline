@@ -18,43 +18,11 @@
     },
     "https://www.linkedin.com/jobs/view/4374882935": {
       "first_seen": "2026-03-05",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Seagate Technology",
       "title": "Intern- Machine Learning (Gen AI)"
-    },
-    "https://unstop.cominternships/sustainability-analyst-internship-envirowealth-services-pvt-ltd-1648822": {
-      "first_seen": "2026-02-26",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "EnviroWealth Services Pvt. Ltd.",
-      "title": "Sustainability Analyst Internship"
-    },
-    "https://unstop.cominternships/ai-internship-digi-technologies-1648809": {
-      "first_seen": "2026-02-26",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Digi Technologies",
-      "title": "AI Internship"
-    },
-    "https://www.linkedin.com/jobs/view/4375524447": {
-      "first_seen": "2026-02-26",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Shink",
-      "title": "Artificial Intelligence + Raspberry Pi Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4377265502": {
-      "first_seen": "2026-02-26",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
     },
     "https://www.linkedin.com/jobs/view/4377434669": {
       "first_seen": "2026-02-26",
@@ -63,22 +31,6 @@
       "source": "linkedin",
       "company": "SkillFied Mentor",
       "title": "DevOps Engineer Intern (Linux Docker, Kubernetes)"
-    },
-    "https://www.linkedin.com/jobs/view/4377141305": {
-      "first_seen": "2026-02-26",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Infrabyte Consulting",
-      "title": "Artificial Intelligence Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4375534131": {
-      "first_seen": "2026-02-26",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Innovexis",
-      "title": "Machine Learning Intern"
     },
     "https://www.linkedin.com/jobs/view/4377216758": {
       "first_seen": "2026-02-26",
@@ -128,54 +80,6 @@
       "company": "Agrawal Group of Publications, Educart",
       "title": "Business Development - Management Trainee"
     },
-    "https://www.linkedin.com/jobs/view/4377648699": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Trovex.ai",
-      "title": "AI SDE Intern (Generative AI)"
-    },
-    "https://www.linkedin.com/jobs/view/4378783278": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SportsBUZZ",
-      "title": "Machine Learning Intern (Paid)"
-    },
-    "https://www.linkedin.com/jobs/view/4377271402": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Wake Up Whistle",
-      "title": "DevOps Intern | CI/CD Pipelines & Deployment Automation"
-    },
-    "https://www.linkedin.com/jobs/view/4376414070": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Quantum IT Innovation",
-      "title": "AI Graphic Design Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4378774418": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Webs X UM",
-      "title": "Machine Learning Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4378788180": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "UM IT PRIVATE LIMITED",
-      "title": "Machine Learning Intern"
-    },
     "https://www.linkedin.com/jobs/view/4377662414": {
       "first_seen": "2026-02-27",
       "last_seen": "2026-02-28",
@@ -183,22 +87,6 @@
       "source": "linkedin",
       "company": "Zetheta Algorithms Private Limited",
       "title": "Artificial Intelligence Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4377691897": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Zenithbyte",
-      "title": "Machine Learning Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4377256410": {
-      "first_seen": "2026-02-27",
-      "last_seen": "2026-02-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SunsysTechsol Pvt. Ltd.",
-      "title": "DevOps Developer Intern"
     },
     "https://www.linkedin.com/jobs/view/4375915311": {
       "first_seen": "2026-02-28",
@@ -682,7 +570,7 @@
     },
     "https://www.linkedin.com/jobs/view/4379645520": {
       "first_seen": "2026-03-04",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "ERIC Robotics",
@@ -690,7 +578,7 @@
     },
     "https://www.linkedin.com/jobs/view/4379451005": {
       "first_seen": "2026-03-04",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Fireblaze AI School",
@@ -834,7 +722,7 @@
     },
     "https://www.linkedin.com/jobs/view/4380097404": {
       "first_seen": "2026-03-05",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "AppXcelerate Solutions Pvt Ltd",
@@ -842,7 +730,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381180975": {
       "first_seen": "2026-03-05",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Infrabyte Consulting",
@@ -858,7 +746,7 @@
     },
     "https://www.linkedin.com/jobs/view/4379332891": {
       "first_seen": "2026-03-05",
-      "last_seen": "2026-03-05",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "See the Unseen",
@@ -922,7 +810,7 @@
     },
     "https://unstop.cominternships/artificial-intelligence-development-internship-iwerk-infosolutions-llp-1653773": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "unstop",
       "company": "Iwerk Infosolutions LLP",
@@ -938,7 +826,7 @@
     },
     "https://www.linkedin.com/jobs/view/4363069172": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Milliman",
@@ -946,7 +834,7 @@
     },
     "https://www.linkedin.com/jobs/view/4363193484": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Milliman",
@@ -954,7 +842,7 @@
     },
     "https://www.linkedin.com/jobs/view/4363193486": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Milliman",
@@ -970,7 +858,7 @@
     },
     "https://unstop.cominternships/junior-electronics-engineer-trainee-jeevtronics-1653872": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "unstop",
       "company": "Jeevtronics",
@@ -994,7 +882,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381609207": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -1010,7 +898,7 @@
     },
     "https://www.linkedin.com/jobs/view/4379144633": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Tribute Technology",
@@ -1034,7 +922,7 @@
     },
     "https://www.linkedin.com/jobs/view/4380671522": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-06",
+      "last_seen": "2026-03-07",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Job Nexus India",
@@ -1071,17 +959,169 @@
       "source": "linkedin",
       "company": "Recruit Forge",
       "title": "DevOps Engineer Intern"
+    },
+    "https://unstop.cominternships/data-science-machine-learning-internship-worisgo-1653996": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "WoRisGo",
+      "title": "Data Science & Machine Learning Internship"
+    },
+    "https://unstop.cominternships/artificial-intelligence-machine-learning-internship-1stopai-1654434": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "1Stop.ai",
+      "title": "Artificial Intelligence & Machine Learning Internship"
+    },
+    "https://unstop.cominternships/cloud-computing-internship-movidu-technology-pvt-ltd-1654555": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Movidu Technology Pvt Ltd",
+      "title": "Cloud Computing Internship"
+    },
+    "https://www.linkedin.com/jobs/view/4381368417": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "BRT Multi Software LLP",
+      "title": "DevOps Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4382309389": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Above Alpha Solutions",
+      "title": "Machine Learning Internship in Kolkata (Hybrid)"
+    },
+    "https://www.linkedin.com/jobs/view/4381362392": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "ArGo Intern",
+      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4382376336": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SkillFied Mentor",
+      "title": "DevOps Engineer Intern (Linux Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4380897786": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Artificial Intelligence (AI) Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4382387977": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4382600300": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4381330238": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "DevOps Intern | CI/CD Pipelines & Deployment Automation"
+    },
+    "https://www.linkedin.com/jobs/view/4381196272": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Infrabyte Consulting",
+      "title": "Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4381354962": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Zenithbyte",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4381362318": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Zetheta Algorithms Private Limited",
+      "title": "Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4382610001": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Webs X UM",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4381349334": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Inficore Soft",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4381210182": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4380898884": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "DevOps Engineer Intern"
+    },
+    "https://internshala.com/internship/detail/work-from-home-ai-automation-intern-internship-at-riverwood-india1772880967": {
+      "first_seen": "2026-03-07",
+      "last_seen": "2026-03-07",
+      "alert_count": 1,
+      "source": "internshala",
+      "company": "Riverwood India",
+      "title": "AI Automation Intern"
     }
   },
   "stats": {
-    "total_jobs_tracked": 134,
+    "total_jobs_tracked": 139,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-03-06T16:28:04.078416",
+    "last_cleanup": "2026-03-07T16:16:09.414384",
     "sources_breakdown": {
-      "unstop": 90,
-      "linkedin": 527,
-      "internshala": 11
+      "unstop": 93,
+      "linkedin": 542,
+      "internshala": 12
     }
   }
 }
