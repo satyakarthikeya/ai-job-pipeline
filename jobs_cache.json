@@ -2,7 +2,7 @@
   "seen_jobs": {
     "https://www.linkedin.com/jobs/view/4374882935": {
       "first_seen": "2026-03-05",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Seagate Technology",
@@ -16,30 +16,6 @@
       "company": "PetYosa",
       "title": "DevOps + Backend Engineering Intern"
     },
-    "https://www.linkedin.com/jobs/view/4376051024": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Prudent Technologies and Consulting, Inc.",
-      "title": "AI & Data Science Intern"
-    },
-    "https://unstop.cominternships/ai-internship-bipolar-factory-1648881": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Bipolar Factory",
-      "title": "AI Internship"
-    },
-    "https://unstop.cominternships/ai-research-internship-gohappy-club-1651104": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "GoHappy Club",
-      "title": "AI Research Internship"
-    },
     "https://www.linkedin.com/jobs/view/4378758827": {
       "first_seen": "2026-03-02",
       "last_seen": "2026-03-03",
@@ -47,46 +23,6 @@
       "source": "linkedin",
       "company": "Multiplier AI",
       "title": "AI Performance Marketing Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4379920576": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Joveo",
-      "title": "Product Brand Marketing Intern - AI Labs Product"
-    },
-    "https://www.linkedin.com/jobs/view/4378845517": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
-    },
-    "https://www.linkedin.com/jobs/view/4379933655": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SkillFied Mentor",
-      "title": "DevOps Engineer Intern (Linux Docker, Kubernetes)"
-    },
-    "https://unstop.cominternships/industrial-trainee-rubrik-1651173": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Rubrik",
-      "title": "Industrial Trainee"
-    },
-    "https://www.linkedin.com/jobs/view/4378836629": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Wake Up Whistle",
-      "title": "DevOps Intern | CI/CD Pipelines & Deployment Automation"
     },
     "https://www.linkedin.com/jobs/view/4378795830": {
       "first_seen": "2026-03-02",
@@ -96,14 +32,6 @@
       "company": "Scopely",
       "title": "Intern - Gen. AI Art"
     },
-    "https://www.linkedin.com/jobs/view/4377962073": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Quantum IT Innovation",
-      "title": "Motion Graphics Design(AI) Intern"
-    },
     "https://www.linkedin.com/jobs/view/4378810637": {
       "first_seen": "2026-03-02",
       "last_seen": "2026-03-03",
@@ -112,52 +40,12 @@
       "company": "Infrabyte Consulting",
       "title": "Artificial Intelligence Intern"
     },
-    "https://www.linkedin.com/jobs/view/4378849438": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "Data Science Intern (Python, SQL, Pandas)"
-    },
-    "https://www.linkedin.com/jobs/view/4378826718": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Wake Up Whistle",
-      "title": "Data Science Intern (Python, SQL, Pandas)"
-    },
-    "https://www.linkedin.com/jobs/view/4379926657": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SkillFied Mentor",
-      "title": "Data Science Intern (Python, SQL, Pandas)"
-    },
-    "https://www.linkedin.com/jobs/view/4378841615": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Dexter's Tech",
-      "title": "Data Science Intern"
-    },
     "https://www.linkedin.com/jobs/view/4378490214": {
       "first_seen": "2026-03-02",
       "last_seen": "2026-03-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Zetheta Algorithms Private Limited",
-      "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4379920984": {
-      "first_seen": "2026-03-02",
-      "last_seen": "2026-03-02",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "WEBBOOST SOLUTION IT SERVICES",
       "title": "Data Science Intern"
     },
     "https://unstop.cominternships/business-analytics-internship-rupeek-1651990": {
@@ -306,7 +194,7 @@
     },
     "https://www.linkedin.com/jobs/view/4379451005": {
       "first_seen": "2026-03-04",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Fireblaze AI School",
@@ -450,7 +338,7 @@
     },
     "https://www.linkedin.com/jobs/view/4380097404": {
       "first_seen": "2026-03-05",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "AppXcelerate Solutions Pvt Ltd",
@@ -554,7 +442,7 @@
     },
     "https://www.linkedin.com/jobs/view/4363069172": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Milliman",
@@ -650,7 +538,7 @@
     },
     "https://www.linkedin.com/jobs/view/4380671522": {
       "first_seen": "2026-03-06",
-      "last_seen": "2026-03-08",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Job Nexus India",
@@ -722,7 +610,7 @@
     },
     "https://www.linkedin.com/jobs/view/4382309389": {
       "first_seen": "2026-03-07",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Above Alpha Solutions",
@@ -850,7 +738,7 @@
     },
     "https://www.linkedin.com/jobs/view/4365685012": {
       "first_seen": "2026-03-08",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Cisco",
@@ -866,7 +754,7 @@
     },
     "https://www.linkedin.com/jobs/view/4380590652": {
       "first_seen": "2026-03-08",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "DNA Growth",
@@ -890,7 +778,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381507070": {
       "first_seen": "2026-03-08",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Inficore Soft",
@@ -930,7 +818,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381589055": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Fast Code AI",
@@ -946,7 +834,7 @@
     },
     "https://unstop.cominternships/email-marketing-internship-innoknowvex-1655980": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "unstop",
       "company": "Innoknowvex",
@@ -970,7 +858,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381567487": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "DeHaat",
@@ -978,7 +866,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381567959": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Townmanor Technologies P-Ltd",
@@ -1002,7 +890,7 @@
     },
     "https://internshala.com/internship/detail/data-and-ai-engineer-intern-internship-in-delhi-at-neoteric-analytics1773048969": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "internshala",
       "company": "Neoteric Analytics",
@@ -1034,7 +922,7 @@
     },
     "https://www.linkedin.com/jobs/view/4291069034": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PwC India",
@@ -1042,7 +930,7 @@
     },
     "https://www.linkedin.com/jobs/view/4381060075": {
       "first_seen": "2026-03-09",
-      "last_seen": "2026-03-09",
+      "last_seen": "2026-03-10",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Quantum IT Innovation",
@@ -1063,17 +951,217 @@
       "source": "linkedin",
       "company": "SkillFied Mentor",
       "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://unstop.cominternships/ai-agent-development-internship-phoneme-solution-pvt-ltd-1656347": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Phoneme Solution Pvt Ltd",
+      "title": "AI Agent Development Internship"
+    },
+    "https://internshala.com/internship/detail/physical-ai-engineer-internship-internship-in-delhi-at-xolver-ai1773137709": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "internshala",
+      "company": "Xolver AI",
+      "title": "Physical AI Engineer (Internship)"
+    },
+    "https://internshala.com/internship/detail/internship-computer-vision-internship-in-noida-at-arvo1773135195": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "internshala",
+      "company": "ARVO",
+      "title": "Internship - Computer Vision"
+    },
+    "https://unstop.cominternships/full-stack-ai-engineer-internship-sparsa-ai-1656310": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "unstop",
+      "company": "Sparsa AI",
+      "title": "Full Stack AI Engineer Internship"
+    },
+    "https://www.linkedin.com/jobs/view/4382260831": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "WeLivdIt",
+      "title": "Marketing and AI Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4382270017": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Grow Me Social",
+      "title": "AI Graphic Design Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4383383875": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "BRT Multi Software LLP",
+      "title": "DevOps Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4151673062": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Gallagher",
+      "title": "Trainee RWD Software Engineer"
+    },
+    "https://www.linkedin.com/jobs/view/4382411018": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "ArGo Intern",
+      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4383315833": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SkillFied Mentor",
+      "title": "DevOps Engineer Intern (Linux Docker, Kubernetes)"
+    },
+    "https://www.linkedin.com/jobs/view/4383418891": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Infrabyte Consulting",
+      "title": "Machine Learning & Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4383708900": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4381390431": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Job Nexus India",
+      "title": "Data Science & Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4382079629": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Artificial Intelligence (AI) Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4383314833": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SkillFied Mentor",
+      "title": "Machine Learning Intern | Model Training & Performance Optimization"
+    },
+    "https://www.linkedin.com/jobs/view/4383721602": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4383423069": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Morgan Stanley",
+      "title": "Data Engineer - Associate - Software Engineering"
+    },
+    "https://www.linkedin.com/jobs/view/4382423407": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "DevOps Intern | CI/CD Pipelines & Deployment Automation"
+    },
+    "https://www.linkedin.com/jobs/view/4382404588": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Zenithbyte",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4383434224": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Infrabyte Consulting",
+      "title": "Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4381863832": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "ArGo Intern",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://www.linkedin.com/jobs/view/4381853926": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://www.linkedin.com/jobs/view/4383475197": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SkillFied Mentor",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://www.linkedin.com/jobs/view/4382074825": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4382083372": {
+      "first_seen": "2026-03-10",
+      "last_seen": "2026-03-10",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Skillzenloop",
+      "title": "DevOps Engineer Intern"
     }
   },
   "stats": {
-    "total_jobs_tracked": 133,
+    "total_jobs_tracked": 144,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-03-09T16:46:41.380407",
+    "last_cleanup": "2026-03-10T16:45:58.021624",
     "sources_breakdown": {
-      "unstop": 97,
-      "linkedin": 564,
-      "internshala": 14
+      "unstop": 99,
+      "linkedin": 585,
+      "internshala": 16
     }
   }
 }
