@@ -56,8 +56,11 @@ def main():
     # Step 4: Send Discord alerts
     print("\n[Step 4/4] Sending Discord alerts...")
     webhook_url = os.getenv('DISCORD_WEBHOOK')
+    notifications_disabled = os.getenv('DISABLE_NOTIFICATIONS', 'false').lower() == 'true'
     
-    if not webhook_url:
+    if notifications_disabled:
+        print("[Stage 2] 🔕 DISABLE_NOTIFICATIONS=true. Discord alerts are disabled.")
+    elif not webhook_url:
         print("[Stage 2] ⚠️  DISCORD_WEBHOOK not set. Skipping alerts.")
     else:
         if new_jobs:
@@ -77,7 +80,7 @@ def main():
         'cache_size': cache_stats['cache_size']
     }
     
-    if webhook_url:
+    if webhook_url and not notifications_disabled:
         send_summary_message(summary_stats, webhook_url)
     
     # Print final summary

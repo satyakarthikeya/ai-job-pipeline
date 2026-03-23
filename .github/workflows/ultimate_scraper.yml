@@ -7,6 +7,15 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
+    inputs:
+      disable_notifications:
+        description: 'Disable Discord notifications (set to true to disable alerts)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 # Required for pushing cache updates
 permissions:
@@ -82,6 +91,7 @@ jobs:
       - name: Run merge and alert
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISABLE_NOTIFICATIONS: ${{ github.event.inputs.disable_notifications || 'false' }}
         run: |
           python merge_jobs.py
       
