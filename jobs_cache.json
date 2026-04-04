@@ -1,13 +1,5 @@
 {
   "seen_jobs": {
-    "https://www.linkedin.com/jobs/view/4388294340": {
-      "first_seen": "2026-03-21",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Wake Up Whistle",
-      "title": "DevOps Intern | CI/CD Pipelines & Deployment Automation"
-    },
     "https://www.linkedin.com/jobs/view/4389394958": {
       "first_seen": "2026-03-24",
       "last_seen": "2026-03-28",
@@ -88,14 +80,6 @@
       "company": "Domain Expansion",
       "title": "Business Development Intern (Unpaid Internship)"
     },
-    "https://www.linkedin.com/jobs/view/4390426185": {
-      "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "ArGo Intern",
-      "title": "DevOps Engineer Intern (Linux, Docker, Kubernetes)"
-    },
     "https://www.linkedin.com/jobs/view/4389882514": {
       "first_seen": "2026-03-26",
       "last_seen": "2026-03-28",
@@ -103,22 +87,6 @@
       "source": "linkedin",
       "company": "AIMLEAP",
       "title": "Digital Marketing - AI Intern ( 6 months to 2 yrs )"
-    },
-    "https://www.linkedin.com/jobs/view/4390413155": {
-      "first_seen": "2026-03-26",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Inficore Soft",
-      "title": "Machine Learning Intern"
-    },
-    "https://unstop.cominternships/linux-administrator-aws-cloud-internship-codegeeky-1665219": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "codegeeky",
-      "title": "Linux Administrator & Aws Cloud Internship"
     },
     "https://unstop.cominternships/management-trainee-internship-intugine-1666310": {
       "first_seen": "2026-03-27",
@@ -128,30 +96,6 @@
       "company": "Intugine",
       "title": "Management Trainee Internship"
     },
-    "https://unstop.cominternships/trainee-seo-internship-amura-marketing-technologies-1666332": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Amura Marketing Technologies",
-      "title": "Trainee SEO Internship"
-    },
-    "https://unstop.cominternships/social-media-ai-internship-on-demand-skillz-1666387": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "On Demand Skillz",
-      "title": "Social Media AI Internship"
-    },
-    "https://unstop.cominternships/content-creator-internship-gaming-domain-spikeera-1666170": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Spikeera",
-      "title": "Content Creator Internship- Gaming Domain"
-    },
     "https://www.linkedin.com/jobs/view/4390941054": {
       "first_seen": "2026-03-27",
       "last_seen": "2026-04-02",
@@ -160,14 +104,6 @@
       "company": "Superfone",
       "title": "AI Intern"
     },
-    "https://www.linkedin.com/jobs/view/4363193486": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Milliman",
-      "title": "Trainee Software Engineer (Frontend) - MedInsight (Dev)"
-    },
     "https://www.linkedin.com/jobs/view/4363193484": {
       "first_seen": "2026-03-27",
       "last_seen": "2026-04-02",
@@ -175,22 +111,6 @@
       "source": "linkedin",
       "company": "Milliman",
       "title": "Trainee Software Engineer - MedInsight (Dev)"
-    },
-    "https://www.linkedin.com/jobs/view/4391574859": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SportsBUZZ",
-      "title": "Machine Learning Intern (Paid)"
-    },
-    "https://www.linkedin.com/jobs/view/4390903381": {
-      "first_seen": "2026-03-27",
-      "last_seen": "2026-03-27",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Zetheta Algorithms Private Limited",
-      "title": "Artificial Intelligence Intern"
     },
     "https://www.linkedin.com/jobs/view/4392035472": {
       "first_seen": "2026-03-28",
@@ -506,7 +426,7 @@
     },
     "https://www.linkedin.com/jobs/view/4392503202": {
       "first_seen": "2026-03-30",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -514,7 +434,7 @@
     },
     "https://www.linkedin.com/jobs/view/4291069034": {
       "first_seen": "2026-03-30",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PwC India",
@@ -546,7 +466,7 @@
     },
     "https://www.linkedin.com/jobs/view/4391801640": {
       "first_seen": "2026-03-30",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Quantum IT Innovation",
@@ -554,7 +474,7 @@
     },
     "https://www.linkedin.com/jobs/view/4391855593": {
       "first_seen": "2026-03-30",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Quantum IT Innovation",
@@ -682,7 +602,7 @@
     },
     "https://www.linkedin.com/jobs/view/4365685012": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Cisco",
@@ -698,7 +618,7 @@
     },
     "https://www.linkedin.com/jobs/view/4151673062": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-02",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Gallagher",
@@ -706,7 +626,7 @@
     },
     "https://www.linkedin.com/jobs/view/4392995848": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Adsparkx",
@@ -714,7 +634,7 @@
     },
     "https://www.linkedin.com/jobs/view/4393586336": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -786,7 +706,7 @@
     },
     "https://www.linkedin.com/jobs/view/4392167330": {
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PLATUM-AI\u00ae",
@@ -938,7 +858,7 @@
     },
     "https://www.linkedin.com/jobs/view/4393412190": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Astra Security",
@@ -946,7 +866,7 @@
     },
     "https://www.linkedin.com/jobs/view/4395337260": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "FinacPlus",
@@ -954,7 +874,7 @@
     },
     "https://www.linkedin.com/jobs/view/4393402577": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Uffizio",
@@ -1026,7 +946,7 @@
     },
     "https://internshala.com/internship/detail/global-talent-intern-internship-in-multiple-locations-at-aiesec-india1775133195": {
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "internshala",
       "company": "AIESEC India (Mumbai, India)",
@@ -1034,7 +954,7 @@
     },
     "https://unstop.cominternships/sustainability-internship-deepwoods-initiatives-pvt-ltd-1670164": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "unstop",
       "company": "DeepWoods Initiatives Pvt. Ltd.",
@@ -1050,7 +970,7 @@
     },
     "https://unstop.cominternships/engineering-trainee-internship-pharma-projects-nne-1669101": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "unstop",
       "company": "NNE",
@@ -1090,7 +1010,7 @@
     },
     "https://www.linkedin.com/jobs/view/4292873127": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "PwC India",
@@ -1106,7 +1026,7 @@
     },
     "https://internshala.com/internship/detail/it-sales-intern--cloud-sales--internship-in-bangalore-at-cloudzenia1775207178": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "internshala",
       "company": "CloudZenia",
@@ -1122,7 +1042,7 @@
     },
     "https://www.linkedin.com/jobs/view/4385327304": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "IntegriChain",
@@ -1130,7 +1050,7 @@
     },
     "https://www.linkedin.com/jobs/view/4393492130": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Wake Up Whistle",
@@ -1138,21 +1058,69 @@
     },
     "https://www.linkedin.com/jobs/view/4397325320": {
       "first_seen": "2026-04-03",
-      "last_seen": "2026-04-03",
+      "last_seen": "2026-04-04",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Fermions",
       "title": "Machine Learning Intern \u2014 RAG for Hardware Design Generation"
+    },
+    "https://www.linkedin.com/jobs/view/4394300054": {
+      "first_seen": "2026-04-04",
+      "last_seen": "2026-04-04",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Arhant Solutions Pvt.ltd",
+      "title": "AWS DevOps Engineer Internship in Ahmedabad"
+    },
+    "https://www.linkedin.com/jobs/view/4393870483": {
+      "first_seen": "2026-04-04",
+      "last_seen": "2026-04-04",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "TalentXM (Formerly BlockTXM Inc)",
+      "title": "Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4394274438": {
+      "first_seen": "2026-04-04",
+      "last_seen": "2026-04-04",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Inficore Soft",
+      "title": "Fresher : Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4397456447": {
+      "first_seen": "2026-04-04",
+      "last_seen": "2026-04-04",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Webs X UM",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4394266445": {
+      "first_seen": "2026-04-04",
+      "last_seen": "2026-04-04",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Inficore Soft",
+      "title": "Fresher : Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4394276490": {
+      "first_seen": "2026-04-04",
+      "last_seen": "2026-04-04",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
     }
   },
   "stats": {
-    "total_jobs_tracked": 143,
+    "total_jobs_tracked": 139,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-04-03T16:28:43.352969",
+    "last_cleanup": "2026-04-04T16:22:48.326373",
     "sources_breakdown": {
       "unstop": 167,
-      "linkedin": 896,
+      "linkedin": 902,
       "internshala": 28
     }
   }
