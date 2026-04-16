@@ -1,8 +1,8 @@
 {
   "seen_jobs": {
     "https://internshala.com/internship/detail/global-talent-intern-internship-in-multiple-locations-at-aiesec-india1775133195": {
-      "first_seen": "2026-04-09",
-      "last_seen": "2026-04-15",
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "internshala",
       "company": "AIESEC India",
@@ -64,22 +64,6 @@
       "company": "Frigga Labs",
       "title": "DevOps Intern"
     },
-    "https://internshala.com/internship/detail/it-sales-intern--cloud-sales--internship-in-bangalore-at-cloudzenia1775551160": {
-      "first_seen": "2026-04-07",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "internshala",
-      "company": "CloudZenia",
-      "title": "IT Sales Intern  ( Cloud Sales )"
-    },
-    "https://www.linkedin.com/jobs/view/4398373549": {
-      "first_seen": "2026-04-07",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "CIBC India",
-      "title": "Junior Data-Cloud engineer [T500-25009]"
-    },
     "https://www.linkedin.com/jobs/view/4394491858": {
       "first_seen": "2026-04-07",
       "last_seen": "2026-04-10",
@@ -96,14 +80,6 @@
       "company": "LivNSense GreenOps Private Limited",
       "title": "AI/ML Internship in Bangalore"
     },
-    "https://unstop.cominternships/aiml-engineer-internship-btow-pvt-ltd-1670426": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "BTOW Pvt. Ltd.",
-      "title": "AI/ML Engineer Internship"
-    },
     "https://www.linkedin.com/jobs/view/4398099111": {
       "first_seen": "2026-04-08",
       "last_seen": "2026-04-12",
@@ -112,62 +88,6 @@
       "company": "Arhant Solutions Pvt.ltd",
       "title": "AWS DevOps Engineer Internship in Ahmedabad"
     },
-    "https://www.linkedin.com/jobs/view/4395971168": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Enverus",
-      "title": "Product Intern - Machine Learning & Gen-AI - 26126"
-    },
-    "https://unstop.cominternships/ai-stack-internship-lifesight-1672714": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Lifesight",
-      "title": "AI Stack Internship"
-    },
-    "https://unstop.cominternships/law-campus-ambassador-internship-mycaptain-mycaptain-1672698": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "MyCaptain",
-      "title": "Law Campus Ambassador Internship MyCaptain"
-    },
-    "https://unstop.cominternships/management-trainee-internship-encompass-pvt-ltd-1672601": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Encompass Pvt. Ltd.",
-      "title": "Management Trainee Internship"
-    },
-    "https://unstop.cominternships/it-ai-operations-internship-zycus-1671754": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "unstop",
-      "company": "Zycus",
-      "title": "IT & AI Operations Internship"
-    },
-    "https://www.linkedin.com/jobs/view/4398496256": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "FinacPlus",
-      "title": "DevOps Engineer - Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4374891995": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Milliman",
-      "title": "Trainee Data Solutions Engineer"
-    },
     "https://internshala.com/internship/detail/ai-internship-in-multiple-locations-at-create1775620948": {
       "first_seen": "2026-04-08",
       "last_seen": "2026-04-13",
@@ -175,54 +95,6 @@
       "source": "internshala",
       "company": "CREATE",
       "title": "AI Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4399284038": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SportsBUZZ",
-      "title": "Machine Learning Intern (Paid)"
-    },
-    "https://www.linkedin.com/jobs/view/4394788285": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Quantum IT Innovation",
-      "title": "Motion Graphics Design(AI) Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4399287152": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SkillFied Mentor",
-      "title": "Data Science Intern (Python, SQL, Pandas)"
-    },
-    "https://www.linkedin.com/jobs/view/4398598352": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "WEBBOOST SOLUTION IT SERVICES",
-      "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4395941564": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Zetheta Algorithms Private Limited",
-      "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4399243204": {
-      "first_seen": "2026-04-08",
-      "last_seen": "2026-04-08",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Webs X UM",
-      "title": "Machine Learning Intern"
     },
     "https://unstop.cominternships/machine-learning-internship-zenotalent-1672635": {
       "first_seen": "2026-04-09",
@@ -330,7 +202,7 @@
     },
     "https://www.linkedin.com/jobs/view/4397615657": {
       "first_seen": "2026-04-10",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "CoreTek Labs",
@@ -658,7 +530,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399759756": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Innovexis",
@@ -674,7 +546,7 @@
     },
     "https://www.linkedin.com/jobs/view/4400762201": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Enveu",
@@ -682,7 +554,7 @@
     },
     "https://www.linkedin.com/jobs/view/4401742494": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Flick2Know",
@@ -722,7 +594,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399913337": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Roxiler Systems",
@@ -762,7 +634,7 @@
     },
     "https://internshala.com/internship/detail/software-engineer-intern-ai-ml-ai-powered-global-tech-startup-internship-in-delhi-at-skillscapital1776242239": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "internshala",
       "company": "SkillsCapital",
@@ -810,7 +682,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399965448": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
@@ -826,22 +698,54 @@
     },
     "https://www.linkedin.com/jobs/view/4399972333": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-15",
+      "last_seen": "2026-04-16",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
       "title": "Junior DevOps Engineer Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4400187247": {
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Joveo",
+      "title": "AI Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4400009275": {
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Tracera",
+      "title": "Machine Learning Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4401114336": {
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Good At Numbers",
+      "title": "Software Engineer Intern - Platform & DevOps"
+    },
+    "https://www.linkedin.com/jobs/view/4359203755": {
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Deloitte",
+      "title": "T&T Intern - Innovation & Cloud Development Centre (Software Development) - MY"
     }
   },
   "stats": {
-    "total_jobs_tracked": 104,
+    "total_jobs_tracked": 92,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-04-15T16:53:01.744238",
+    "last_cleanup": "2026-04-16T17:02:43.728943",
     "sources_breakdown": {
       "unstop": 191,
-      "linkedin": 1003,
-      "internshala": 33
+      "linkedin": 1007,
+      "internshala": 34
     }
   }
 }
