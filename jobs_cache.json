@@ -2,7 +2,7 @@
   "seen_jobs": {
     "https://internshala.com/internship/detail/global-talent-intern-internship-in-multiple-locations-at-aiesec-india1775133195": {
       "first_seen": "2026-04-16",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "internshala",
       "company": "AIESEC India",
@@ -64,14 +64,6 @@
       "company": "SkillFied Mentor",
       "title": "Data Science Intern (Python, SQL, Pandas)"
     },
-    "https://www.linkedin.com/jobs/view/4396391839": {
-      "first_seen": "2026-04-09",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Zetheta Algorithms Private Limited",
-      "title": "Data Science Intern"
-    },
     "https://www.linkedin.com/jobs/view/4397615657": {
       "first_seen": "2026-04-10",
       "last_seen": "2026-04-16",
@@ -95,14 +87,6 @@
       "source": "linkedin",
       "company": "GE Aerospace",
       "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4398875969": {
-      "first_seen": "2026-04-10",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Inficore Soft",
-      "title": "Machine Learning Intern"
     },
     "https://www.linkedin.com/jobs/view/4398890071": {
       "first_seen": "2026-04-10",
@@ -136,52 +120,12 @@
       "company": "ManageArtworks",
       "title": "AI Intern"
     },
-    "https://www.linkedin.com/jobs/view/4400917955": {
-      "first_seen": "2026-04-11",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "SportsBUZZ",
-      "title": "Machine Learning Intern (Paid)"
-    },
-    "https://www.linkedin.com/jobs/view/4399082160": {
-      "first_seen": "2026-04-11",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Skillzenloop",
-      "title": "Artificial Intelligence Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4398729741": {
-      "first_seen": "2026-04-11",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Acrotinel",
-      "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4399330972": {
-      "first_seen": "2026-04-11",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "Nextgraad",
-      "title": "Data Science Intern"
-    },
     "https://www.linkedin.com/jobs/view/4399083110": {
       "first_seen": "2026-04-11",
       "last_seen": "2026-04-12",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
-      "title": "Data Science Intern"
-    },
-    "https://www.linkedin.com/jobs/view/4400612724": {
-      "first_seen": "2026-04-11",
-      "last_seen": "2026-04-11",
-      "alert_count": 1,
-      "source": "linkedin",
-      "company": "WEBBOOST SOLUTION IT SERVICES",
       "title": "Data Science Intern"
     },
     "https://unstop.cominternships/data-analytics-internshiptraineeship-tripadasoft-solutions-1674347": {
@@ -290,7 +234,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399107280": {
       "first_seen": "2026-04-13",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Fireblaze AI School",
@@ -386,7 +330,7 @@
     },
     "https://www.linkedin.com/jobs/view/4400762201": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Enveu",
@@ -394,7 +338,7 @@
     },
     "https://www.linkedin.com/jobs/view/4401742494": {
       "first_seen": "2026-04-14",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Flick2Know",
@@ -434,7 +378,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399913337": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Roxiler Systems",
@@ -442,7 +386,7 @@
     },
     "https://www.linkedin.com/jobs/view/4402263337": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Roxiler Systems",
@@ -466,7 +410,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399913336": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "DigiPlus IT",
@@ -498,7 +442,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399972355": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
@@ -506,7 +450,7 @@
     },
     "https://www.linkedin.com/jobs/view/4401191254": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Quantum IT Innovation",
@@ -522,7 +466,7 @@
     },
     "https://www.linkedin.com/jobs/view/4399965448": {
       "first_seen": "2026-04-15",
-      "last_seen": "2026-04-17",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
@@ -650,7 +594,7 @@
     },
     "https://unstop.cominternships/data-science-internship-vedhaai-infotech-1677032": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "unstop",
       "company": "VedhaAI Infotech",
@@ -658,7 +602,7 @@
     },
     "https://www.linkedin.com/jobs/view/4400832161": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SteepGraph",
@@ -682,7 +626,7 @@
     },
     "https://www.linkedin.com/jobs/view/4403828717": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -698,7 +642,7 @@
     },
     "https://www.linkedin.com/jobs/view/4401184422": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Quantum IT Innovation",
@@ -706,7 +650,7 @@
     },
     "https://www.linkedin.com/jobs/view/4403835117": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "SkillFied Mentor",
@@ -722,7 +666,7 @@
     },
     "https://www.linkedin.com/jobs/view/4402794150": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Inficore Soft",
@@ -738,21 +682,93 @@
     },
     "https://www.linkedin.com/jobs/view/4401225382": {
       "first_seen": "2026-04-18",
-      "last_seen": "2026-04-18",
+      "last_seen": "2026-04-19",
       "alert_count": 1,
       "source": "linkedin",
       "company": "Skillzenloop",
       "title": "Junior Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4403055761": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "AMPARO SECURE TECH",
+      "title": "HR Intern (Non-Paid Internship)"
+    },
+    "https://www.linkedin.com/jobs/view/4403582284": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "TALENTMATE",
+      "title": "Trainee Software Engineer - MedInsight Dev"
+    },
+    "https://www.linkedin.com/jobs/view/4401283205": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Joveo",
+      "title": "AI Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4403870957": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "SportsBUZZ",
+      "title": "Machine Learning Intern (Paid)"
+    },
+    "https://www.linkedin.com/jobs/view/4403030037": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Acrotinel",
+      "title": "Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4403092781": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Inficore Soft",
+      "title": "Artificial Intelligence Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4403091892": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Wake Up Whistle",
+      "title": "Data Science Intern (Python, SQL, Pandas)"
+    },
+    "https://www.linkedin.com/jobs/view/4403872375": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "WEBBOOST SOLUTION IT SERVICES",
+      "title": "Data Science Intern"
+    },
+    "https://www.linkedin.com/jobs/view/4403876320": {
+      "first_seen": "2026-04-19",
+      "last_seen": "2026-04-19",
+      "alert_count": 1,
+      "source": "linkedin",
+      "company": "Webs X UM",
+      "title": "Machine Learning Intern"
     }
   },
   "stats": {
-    "total_jobs_tracked": 93,
+    "total_jobs_tracked": 95,
     "cache_size_kb": 0.0,
     "oldest_job_date": null,
-    "last_cleanup": "2026-04-18T16:27:35.841996",
+    "last_cleanup": "2026-04-19T16:27:50.599091",
     "sources_breakdown": {
       "unstop": 195,
-      "linkedin": 1024,
+      "linkedin": 1033,
       "internshala": 34
     }
   }
